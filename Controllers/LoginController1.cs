@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace appPDWebMVC.Controllers
 {
-    public class HomeController1 : Controller
+    public class LoginController1 : Controller
     {
         // GET: HomeController1
         public ActionResult Index()
