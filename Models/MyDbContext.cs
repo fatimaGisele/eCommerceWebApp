@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using My
 
 namespace appPDWebMVC.Models
 {
@@ -13,6 +14,11 @@ namespace appPDWebMVC.Models
         public MydbContext(DbContextOptions<MydbContext> options)
             : base(options)
         {
+        }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+           
+        {
+            
         }
     }
    

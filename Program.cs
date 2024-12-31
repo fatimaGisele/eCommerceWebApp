@@ -1,6 +1,14 @@
+using appPDWebMVC.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+//-------------------------------------------------###-------------------------------------
+//my mydbContext config
+builder.Services.AddDbContext<MydbContext>();
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();

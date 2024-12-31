@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\indumentarium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\controllers\\indumentariumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:controllers\\indumentariumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:controllers\\carritocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\indumentariahasventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\indumentariahasventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\clientemediodepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,6 +70,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:21:47.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Carrito.cs",
+              "RelativeDocumentMoniker": "Models\\Carrito.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Carrito.cs",
+              "RelativeToolTip": "Models\\Carrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:21:37.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndumentariumsController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Controllers\\IndumentariumsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IndumentariumsController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Controllers\\IndumentariumsController.cs",
+              "RelativeToolTip": "Controllers\\IndumentariumsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:18:43.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarritoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Controllers\\CarritoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarritoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Controllers\\CarritoController.cs",
+              "RelativeToolTip": "Controllers\\CarritoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T22:17:49.525Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -67,14 +135,14 @@
               "RelativeDocumentMoniker": "Models\\Indumentarium.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Indumentarium.cs",
               "RelativeToolTip": "Models\\Indumentarium.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T20:40:30.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "IndumentariaHasVenta.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\IndumentariaHasVenta.cs",
               "RelativeDocumentMoniker": "Models\\IndumentariaHasVenta.cs",
@@ -87,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Genero.cs",
               "RelativeDocumentMoniker": "Models\\Genero.cs",
@@ -100,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Venta.cs",
               "RelativeDocumentMoniker": "Models\\Venta.cs",
@@ -113,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "MedioDePago.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\MedioDePago.cs",
               "RelativeDocumentMoniker": "Models\\MedioDePago.cs",
@@ -126,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ClienteMediodepago.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\ClienteMediodepago.cs",
               "RelativeDocumentMoniker": "Models\\ClienteMediodepago.cs",
@@ -139,20 +207,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Categorium.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Categorium.cs",
               "RelativeDocumentMoniker": "Models\\Categorium.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Categorium.cs",
               "RelativeToolTip": "Models\\Categorium.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T20:18:22.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "Models\\MyDbContext.cs",
@@ -169,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",

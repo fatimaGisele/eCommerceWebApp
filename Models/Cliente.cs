@@ -2,7 +2,7 @@
 {
     public class Cliente
     {
-        public int Id { get; set; }
+        public int ID { get; set; }
         public string Nombre { get; set; } = null!;
         public string Apellido { get; set; } = null!;
         public string Mail {  get; set; } = null!;
