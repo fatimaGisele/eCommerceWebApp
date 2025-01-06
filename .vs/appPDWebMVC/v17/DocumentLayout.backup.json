@@ -7,52 +7,52 @@
       "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\clientecarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\clientecarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\clientemediodepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\clientemediodepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\mediodepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\mediodepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\indumentariahasventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\indumentariahasventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\indumentarium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\indumentarium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\indumentariahasventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\indumentariahasventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\clientemediodepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\clientemediodepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\indumentarium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\indumentarium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\clientecarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\clientecarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|solutionrelative:models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2647352C-30EF-4327-B318-7C1FC3FCC8C4}|appPDWebMVC.csproj|c:\\users\\usuario\\source\\repos\\apppdwebmvc\\controllers\\indumentariumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,42 +69,12 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 141,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
           "SelectedChildIndex": 17,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T14:13:10.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClienteCarrito.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\ClienteCarrito.cs",
-              "RelativeDocumentMoniker": "Models\\ClienteCarrito.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\ClienteCarrito.cs",
-              "RelativeToolTip": "Models\\ClienteCarrito.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T13:06:54.75Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -114,8 +84,36 @@
               "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:13:10.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClienteCarrito.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\ClienteCarrito.cs",
+              "RelativeDocumentMoniker": "Models\\ClienteCarrito.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\ClienteCarrito.cs",
+              "RelativeToolTip": "Models\\ClienteCarrito.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T13:06:54.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -128,20 +126,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Models\\Cliente.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Cliente.cs",
               "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T22:21:47.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T22:21:47.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Carrito.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Carrito.cs",
               "RelativeDocumentMoniker": "Models\\Carrito.cs",
@@ -149,8 +146,7 @@
               "RelativeToolTip": "Models\\Carrito.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T22:21:37.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T22:21:37.886Z"
             },
             {
               "$type": "Document",
@@ -162,8 +158,7 @@
               "RelativeToolTip": "Controllers\\IndumentariumsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T22:18:43.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T22:18:43.21Z"
             },
             {
               "$type": "Document",
@@ -175,25 +170,24 @@
               "RelativeToolTip": "Controllers\\CarritoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T22:17:49.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T22:17:49.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "Indumentarium.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Indumentarium.cs",
               "RelativeDocumentMoniker": "Models\\Indumentarium.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Indumentarium.cs",
               "RelativeToolTip": "Models\\Indumentarium.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA4AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T20:40:30.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "IndumentariaHasVenta.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\IndumentariaHasVenta.cs",
               "RelativeDocumentMoniker": "Models\\IndumentariaHasVenta.cs",
@@ -206,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Genero.cs",
               "RelativeDocumentMoniker": "Models\\Genero.cs",
@@ -219,20 +213,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Venta.cs",
               "RelativeDocumentMoniker": "Models\\Venta.cs",
               "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Venta.cs",
               "RelativeToolTip": "Models\\Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T20:35:19.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "MedioDePago.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\MedioDePago.cs",
               "RelativeDocumentMoniker": "Models\\MedioDePago.cs",
@@ -245,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ClienteMediodepago.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\ClienteMediodepago.cs",
               "RelativeDocumentMoniker": "Models\\ClienteMediodepago.cs",
@@ -258,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Categorium.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\Categorium.cs",
               "RelativeDocumentMoniker": "Models\\Categorium.cs",
@@ -266,8 +260,7 @@
               "RelativeToolTip": "Models\\Categorium.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T20:18:22.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T20:18:22.631Z"
             },
             {
               "$type": "Document",
@@ -275,9 +268,9 @@
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "Models\\MyDbContext.cs",
-              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\MyDbContext.cs",
-              "RelativeToolTip": "Models\\MyDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAMAAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\appPDWebMVC\\Models\\MyDbContext.cs*",
+              "RelativeToolTip": "Models\\MyDbContext.cs*",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAiwAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-26T18:26:23.175Z",
               "EditorCaption": ""
@@ -295,7 +288,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",

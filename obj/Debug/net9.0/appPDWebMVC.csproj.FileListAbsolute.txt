@@ -98,3 +98,6 @@ C:\Users\Usuario\source\repos\appPDWebMVC\obj\Debug\net9.0\refint\appPDWebMVC.dl
 C:\Users\Usuario\source\repos\appPDWebMVC\obj\Debug\net9.0\appPDWebMVC.pdb
 C:\Users\Usuario\source\repos\appPDWebMVC\obj\Debug\net9.0\appPDWebMVC.genruntimeconfig.cache
 C:\Users\Usuario\source\repos\appPDWebMVC\obj\Debug\net9.0\ref\appPDWebMVC.dll
+C:\Users\Usuario\source\repos\appPDWebMVC\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\source\repos\appPDWebMVC\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\Usuario\source\repos\appPDWebMVC\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
