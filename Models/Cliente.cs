@@ -10,8 +10,8 @@
         public string Contraseña { get; set; } = null!;
         public int Telefono { get; set; }
         public int Rol { get; set; }
-        public ICollection<ClienteCarrito> clienteCarritos { get; set; } = new List<ClienteCarrito>();
-        public ICollection<ClienteMediodepago> clienteMediodepagos { get; set; } = new List<ClienteMediodepago>();
+        public ICollection<ClienteCarrito> ClienteCarritos { get; set; } = new List<ClienteCarrito>();
+        public ICollection<ClienteMediodepago> ClienteMediodepagos { get; set; } = new List<ClienteMediodepago>();
         public ICollection<Venta> Ventas { get; set; } = new List<Venta>();
 
     }
