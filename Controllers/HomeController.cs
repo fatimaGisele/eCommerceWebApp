@@ -6,11 +6,11 @@ namespace appPDWebMVC.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly MydbContext mydb;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(MydbContext context)
         {
-            _logger = logger;
+            mydb = context;
         }
 
         public IActionResult Index()

@@ -60,6 +60,11 @@
               "version": "[9.0.0, )",
               "versionCentrallyManaged": true
             },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[8.0.2, )",
@@ -68,6 +73,7 @@
           },
           "centralPackageVersions": {
             "Microsoft.EntityFrameworkCore": "9.0.0",
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": "9.0.0",
             "Pomelo.EntityFrameworkCore.MySql": "8.0.2"
           },
           "imports": [
