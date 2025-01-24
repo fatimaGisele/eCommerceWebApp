@@ -1,4 +1,5 @@
 ﻿using appPDWebMVC.Models;
+using AspNetCoreGeneratedDocument;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -83,47 +84,73 @@ namespace appPDWebMVC.Controllers
             }
         }
 
-        //hasta aca llegue
+        
 
         // GET: ClientesController/Edit/5
-        public ActionResult Edit(int id)
+        public async Task<IActionResult> Edit(int id)
         {
-            return View();
+            var c = await _dbContext.Clientes.FindAsync(id);
+            if (c != null) {
+                return View(c);
+            }
+            return NotFound();
         }
 
+
+        
         // POST: ClientesController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,Nombre,Apellido,Mail,Usuario,Contraseña,Telefono,Rol")] Cliente c)
         {
+            if (id != c.ID)
+            {
+                return NotFound();
+            }
             try
             {
+                if (ModelState.IsValid) {
+                    _dbContext.Update(c);
+                    await _dbContext.SaveChangesAsync();
+                }
                 return RedirectToAction(nameof(Index));
             }
             catch
             {
-                return View();
+                return NotFound();
             }
         }
 
         // GET: ClientesController/Delete/5
-        public ActionResult Delete(int id)
+        public async Task<IActionResult> Delete(int id)
         {
-            return View();
+            var cliente = await _dbContext.Clientes.FirstOrDefaultAsync(m => m.ID == id);
+            if (cliente != null) {
+                _dbContext.Remove(cliente);
+                await _dbContext.SaveChangesAsync();
+                return NotFound();
+            }
+            return View(cliente);
         }
 
         // POST: ClientesController/Delete/5
-        [HttpPost]
+        [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public async Task<IActionResult> DeleteC(int id)
         {
+            var cliente = await _dbContext.Clientes.FirstOrDefaultAsync(m => m.ID == id);
             try
             {
+                if (cliente != null) {
+                    _dbContext.Remove(cliente);
+                    await _dbContext.SaveChangesAsync();
+                    return NotFound();
+                }
                 return RedirectToAction(nameof(Index));
             }
             catch
             {
-                return View();
+                return View("Error");
             }
         }
     }
