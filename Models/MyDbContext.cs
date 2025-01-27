@@ -9,7 +9,7 @@ namespace appPDWebMVC.Models
     {
         public MydbContext() { }
 
-        public MydbContext(DbContextOptions<MydbContext> options)
+        public MydbContext(DbContextOptions<MydbContext> options) 
             : base(options)
         {
         }

@@ -15,26 +15,31 @@ namespace appPDWebMVC.Controllers
             _dbContext = mydb;
         }
 
-        public IActionResult Index() //muestra una lista de productos en el inicio...revisar
+        public IActionResult Index() //muestra una lista de productos en el inicio...no anda...revisar
         {
             var productos = new List<Indumentarium>();
             try
             {
-                int iid = 1934;
+                int id = 1933;
                 for (var i = 1; i <= 5; i++)
                 {
-                    iid += i;
-
-                    var producto = _dbContext.Indumentaria.FirstOrDefault(p => p.ID == iid);
+                    var producto = _dbContext.Indumentaria.FirstOrDefault(p => p.ID == id);
                     if (producto != null)
                     {
                         productos.Add(producto);
                     }
+                    id += i;
+                    Console.WriteLine(id);
+                    Console.WriteLine(i);
                 }
 
                 var sessionId = HttpContext.Session.GetInt32("UserId");
 
                 ViewBag.SessionId = sessionId;
+            }
+            catch (Exception)
+            {
+                return View("Error");
             }
 
 
@@ -47,19 +52,13 @@ namespace appPDWebMVC.Controllers
             return RedirectToAction("Login", "Clientes");
         }
 
-
-        [HttpGet]
-        public IActionResult Register()//?
-        {
-            return View();
-        }
         public IActionResult Indumentarias()//?
         {
             return View();
         }
 
         [HttpPost]
-        public IActionResult Create(Cliente c)
+        public IActionResult Create(Cliente c)//Register
         {
             if (ModelState.IsValid) {
                 var nuevoCliente = new Cliente

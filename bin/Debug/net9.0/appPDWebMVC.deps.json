@@ -9,6 +9,7 @@
       "appPDWebMVC/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.0",
+          "Microsoft.EntityFrameworkCore.Design": "8.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "9.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "8.0.2"
         },
@@ -1073,6 +1074,21 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/9.0.0": {},
+      "Microsoft.EntityFrameworkCore.Design/8.0.0": {
+        "dependencies": {
+          "Humanizer.Core": "2.14.1",
+          "Microsoft.CodeAnalysis.CSharp.Workspaces": "4.8.0",
+          "Microsoft.EntityFrameworkCore.Relational": "8.0.2",
+          "Microsoft.Extensions.DependencyModel": "9.0.0-rc.2.24473.5",
+          "Mono.TextTemplating": "3.0.0"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/8.0.2": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.0",
@@ -2111,6 +2127,13 @@
       "sha512": "sha512-Qje+DzXJOKiXF72SL0XxNlDtTkvWWvmwknuZtFahY5hIQpRKO59qnGuERIQ3qlzuq5x4bAJ8WMbgU5DLhBgeOQ==",
       "path": "microsoft.entityframeworkcore.analyzers/9.0.0",
       "hashPath": "microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Design/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-94reKYu63jg4O75UI3LMJHwOSi8tQ6IfubiZhdnSsWcgtmAuF8OyLfjK/MIxuvaQRJZAF6E747FIuxjOtb8/og==",
+      "path": "microsoft.entityframeworkcore.design/8.0.0",
+      "hashPath": "microsoft.entityframeworkcore.design.8.0.0.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/8.0.2": {
       "type": "package",
